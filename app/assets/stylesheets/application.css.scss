@@ -64,5 +64,9 @@ h1, h2, h3 {
         opacity: 0.75;
     }
 }
+//Hide the alert notice for signup/login/logout message
+.alert-notice {
+    display: none;
+}
 
 
